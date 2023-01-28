@@ -1,0 +1,18 @@
+.block {
+    width: 350px;
+    height: 100px;
+    margin: 0 auto;
+}
+p{
+    color: blueviolet;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+button{
+    margin-left: 10px;
+
+}
+input{
+    margin-left: 20px;
+    margin-top: 10px;
+}
